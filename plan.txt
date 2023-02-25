@@ -1,0 +1,9 @@
+2/25/2023
+	11:30am
+		Time for screeps!
+		My room is pretty neat, two energy spots near each other and the controller
+		LOTS of spawp though, gonna be expensive for roads
+		First thing is to get a screep upgrading the controller. Gonna go for simple
+	12:15am
+		Alrighty, got my basic upgrader as well as a framework for creeps and utility code
+		Gonna let it run for a bit, hopefully my room stays healthy and is level 2 when I come back
